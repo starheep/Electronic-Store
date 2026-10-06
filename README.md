@@ -20,7 +20,7 @@ Swagger Link :-
 Github Repo Link :-
 
 ```bash
-  https://github.com/ag06vansh/Electronic-Store
+  https://github.com/starheep/Electronic-Store
 ```
 
 ## Tech Stack
@@ -29,11 +29,8 @@ Github Repo Link :-
 
 **Database:** MySQL
 
-## 🔗 Links
-[![github](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ag06vansh)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-garg-5b316a179/)
 
 
 ## Authors
 
-Vansh Garg - ag06vansh@gmail.com - 7895598390
+Akshat Garg - akshatgarg492@gmail.com - 8533853008
