@@ -1,7 +1,7 @@
 
 # Electronic Store
 
-* Demo project created using springboot where user can create/update/delete/fetch his profile details.
+* project created using springboot where user can create/update/delete/fetch his profile details.
 * User can go through different category of products and can search for product using any keyword and can add/delete product to his/her cart.
 * User can checkout his cart and proceed with his order.
 * Product/Category can be added or deleted or modified by admin only. General User can only perform get operation on these.
